@@ -16,6 +16,8 @@ public class jframeprueba extends javax.swing.JFrame {
      */
     public jframeprueba() {
         initComponents();
+        
+        ////probandankjsdnjknsjdnjskajkjskdfjkdsjkfs
     }
 
     /**
