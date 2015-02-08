@@ -10,5 +10,5 @@ package sys.gym.urbanstreet.model.impl;
  * @author Juam12
  */
 public class clasemodeloprueba {
-    
+    //tu mama godoy
 }
