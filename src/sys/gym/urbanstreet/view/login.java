@@ -30,7 +30,6 @@ public class login extends javax.swing.JFrame {
         jLabel2 = new javax.swing.JLabel();
 
         setDefaultCloseOperation(javax.swing.WindowConstants.EXIT_ON_CLOSE);
-        setMaximumSize(getPreferredSize());
         setPreferredSize(new java.awt.Dimension(458, 390));
         setResizable(false);
 
